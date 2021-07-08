@@ -9,7 +9,7 @@
         "JE Bots"
     ],
     "website": "https://infinityje.com",
-    "repository": "https://github.com/Damantha126/YouTube-Download",
+    "repository": "https://github.com/sampathsir/YouTube-Download",
     "success_url": "https://t.me/SLTBrecLand",
     "env": {
         "TG_BOT_TOKEN": {
@@ -39,7 +39,7 @@
             "url": "heroku/python"
         },
         {
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+            "url": "https://github.com/sampathsir/heroku-buildpack-ffmpeg-latest"
         }
     ],
     "formation": {
